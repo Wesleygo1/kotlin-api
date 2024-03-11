@@ -23,7 +23,7 @@ Siga estes passos para configurar o projeto em seu ambiente local:
 git config --global core.autocrlf input
 
 # Clone o repositório
-git clone https://github.com/gabelopesz/kotlin-api.git kotlin-api
+git clone https://github.com/Wesleygo1/kotlin-api.git kotlin-api
 
 # Navegue até o diretório do projeto
 cd kotlin-api/api
@@ -63,7 +63,7 @@ Para executar os testes automatizados, utilize o seguinte comando no terminal:
 
 ## Contribuindo
 
-Estamos abertos a contribuições! Por favor, consulte as [issues](https://github.com/gabelopesz/kotlin-api/issues) para trabalhar em melhorias ou novas funcionalidades. Use o padrão `feature/nome-da-feature` para nomear suas branches e abra Pull Requests detalhando as mudanças propostas.
+Estamos abertos a contribuições! Por favor, consulte as [issues](hhttps://github.com/Wesleygo1/kotlin-api.git) para trabalhar em melhorias ou novas funcionalidades. Use o padrão `feature/nome-da-feature` para nomear suas branches e abra Pull Requests detalhando as mudanças propostas.
 
 ## Licença
 
